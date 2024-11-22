@@ -1,0 +1,55 @@
+projectName: 'Addressing <business_challenge>: Best Practices for <target_audience> in IAM'
+jsonFilePath: ./input.json
+baseUrl: https://guptadeepak.com
+portalHeading: Addressing <business_challenge> in IAM
+portalDescription: >-
+  Explore best practices for <target_audience> in Identity and Access Management
+  to enhance security and efficiency.
+portalTitle: Best Practices for <target_audience> in IAM
+searchPlaceholder: Search for insights on IAM best practices...
+useAlphabetsCategory: true
+homeLink: https://guptadeepak.com/
+logoLink: https://guptadeepak.com/
+ctaText: Get Started
+aboutLink: https://guptadeepak.com/about
+productsLink: https://guptadeepak.com/products
+logoImgUrl: https://guptadeepak.com/logo.png
+ctaLink: https://guptadeepak.com/get-started
+copyrightText: © 2023 Gupta Deepak. All rights reserved.
+faviconUrl: https://guptadeepak.com/favicon.ico
+googleTagManagerId: <google tag manager id if exists>
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/guptadeepak
+  - platform: LinkedIn
+    url: https://linkedin.com/in/guptadeepak
+theme:
+  primaryColor: '#007BFF'
+  secondaryColor: '#6C757D'
+  backgroundColor: '#F8F9FA'
+  textColor: '#212529'
+  accentColor: '#FF5733'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
